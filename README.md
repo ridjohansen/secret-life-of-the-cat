@@ -17,6 +17,10 @@ GeoJSON files can be viewed inline on a map.
 In addition, I've uploaded the KML files generated to [a custom Google
 map](https://www.google.co.uk/maps/ms?msid=205632188049427480820.0004df1e4c44ec8afff9f&msa=0&ll=51.184817,-0.527945&spn=0.006173,0.016512).
 
+If you want to read the Python code that did the re-projection, the
+[web-notebook](http://nbviewer.ipython.org/urls/raw.github.com/rjw57/secret-life-of-the-cat/master/reprojection.ipynb)
+can be viewed online.
+
 ## Scraping the website
 
 The excellent Developer Console for Google Chrome revealed that the bulk of the
