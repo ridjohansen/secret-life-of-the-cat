@@ -1,5 +1,16 @@
 # Extracting the GPS traces from Horizon's Secret Life of the Cat
 
+## Too long; show me things
+
+[A Google map of the
+data](https://www.google.co.uk/maps/ms?msid=205632188049427480820.0004df1e4c44ec8afff9f&msa=0&ll=51.184817,-0.527945&spn=0.006173,0.016512).
+[An example GPS
+trace](https://github.com/rjw57/secret-life-of-the-cat/blob/master/geojson/phoebe.geojson).
+[The
+code](http://nbviewer.ipython.org/urls/raw.github.com/rjw57/secret-life-of-the-cat/master/reprojection.ipynb).
+
+## Introduction
+
 The BBC's Horizon programme recently had a special entitled [The Secret Life of
 the Cat](http://www.bbc.co.uk/programmes/b02xcvhw) which had an associated
 [interactive map](http://www.bbc.co.uk/news/science-environment-22567526) on
