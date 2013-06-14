@@ -23,7 +23,7 @@ The excellent Developer Console for Google Chrome revealed that the bulk of the
 mapping work on the site was being done in
 http://news.bbcimg.co.uk/news/special/2013/newsspec_5380/js/compiled/desktop/ns_all.js.
 After beautifying this file and poking around for some data, we can find some
-Javascript which creates an object which is in `raw-website-data.json` in this
+JavaScript which creates an object which is in `raw-website-data.json` in this
 repository.
 
 This JSON object contains a single array of cat records which itself contains
@@ -47,7 +47,7 @@ recorded. This can be used, as shown in the `reprojection.ipynb` IPython web
 notebook, to calculate the appropriate scaling for each layer.
 
 After manual alignment, the location of the maps in the road GeoTIFF is
-recorded. Some simple manipulation outlines in `reprojection.ipynb` can then be
+recorded. Some simple manipulation outlined in `reprojection.ipynb` can then be
 used to convert pixel locations in the maps to pixel locations in the
 OpenStreetMap road image. Since Foldbeam saves a GeoTIFF, we can use the Python
 [GDAL](http://gdal.org/) wrapper to load the road image in and get the
